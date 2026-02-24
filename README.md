@@ -42,12 +42,6 @@ User → Query Understanding → Document Retrieval → RAG Integration (MedGemm
 
 ---
 
-### 🎥 Demo Video  
-
-<video width="700" controls>
-  <source src=
-</video>
-
 ## 📂 Project Structure
 
 ```text
